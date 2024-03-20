@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <meta name="description" content="Form with js" />
+  <meta name="description" content="Form with PHP" />
   <meta name="author" content="Kai Nguyen" />
   <meta name="keywords" content="mths, ics2o" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -14,7 +14,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
   <link rel="manifest" href="site.webmanifest" />
-  <title>Js form</title>
+  <title>PHP form</title>
 </head>
 
 <body>
@@ -24,7 +24,7 @@
     <header class="mdl-layout__header">
       <div class="mdl-layout__header-row">
         <!-- Title -->
-        <span class="mdl-layout-title">Js Form</span>
+        <span class="mdl-layout-title">PHP Form</span>
         <!-- Add spacer, to align navigation to the right -->
         <div class="mdl-layout-spacer"></div>
       </div>
